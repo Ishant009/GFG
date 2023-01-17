@@ -1,4 +1,4 @@
-package DataStructureAndAlgorithm_GFG.Arrays;
+package Arrays;
 
 public class P3_SecondLargestElement {
 

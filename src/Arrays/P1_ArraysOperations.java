@@ -1,4 +1,4 @@
-package DataStructureAndAlgorithm_GFG.Arrays;
+package Arrays;
 
 import java.util.Arrays;
 

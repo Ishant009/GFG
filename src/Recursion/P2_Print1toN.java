@@ -1,4 +1,4 @@
-package DataStructureAndAlgorithm_GFG.Recursion;
+package Recursion;
 
 public class P2_Print1toN {
     public void print(int n) {

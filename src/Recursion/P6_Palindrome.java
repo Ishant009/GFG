@@ -1,4 +1,4 @@
-package DataStructureAndAlgorithm_GFG.Recursion;
+package Recursion;
 
 public class P6_Palindrome {
 

@@ -1,4 +1,4 @@
-package DataStructureAndAlgorithm_GFG.BitManupulation;
+package BitManupulation;
 
 public class P2_PowerOfTwo {
 

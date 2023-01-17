@@ -1,4 +1,4 @@
-package DataStructureAndAlgorithm_GFG.BitManupulation;
+package BitManupulation;
 
 import java.util.ArrayList;
 import java.util.List;
