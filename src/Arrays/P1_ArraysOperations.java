@@ -18,7 +18,7 @@ public class P1_ArraysOperations {
         arr[pos]=element;
     }
     public void delete(int[] arr, int element){
-        int pos=Integer.MIN_VALUE;
+        int pos;
         int i;
         for( i=0;i<=arr.length;i++){
             if(arr[i]== element) {pos=i; break;}
