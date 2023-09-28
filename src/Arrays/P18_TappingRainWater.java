@@ -26,8 +26,8 @@ public class P18_TappingRainWater {
     }
 
     /* (Optimal Soln)
-    Time Compexity : O(n)
-    *  Auxilary Space : O(1)  */
+      Time Compexity : O(n)
+      Auxilary Space : O(1)  */
     public void tappingRainWater1(int[] arr) {
         System.out.println(Arrays.toString(arr));
         int res =0;
